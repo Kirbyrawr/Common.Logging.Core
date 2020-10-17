@@ -1,0 +1,17 @@
+{
+  "name": "com.kirbyrawr.common.logging.core",
+  "version": "3.4.1",
+  "displayName": "Common.Logging.Core",
+  "description": "This is a package that contains the 'Commons.Logging.Core' library.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "logging",
+    "dlls"
+  ],
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
