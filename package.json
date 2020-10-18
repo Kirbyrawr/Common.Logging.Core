@@ -9,6 +9,11 @@
     "logging",
     "dlls"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/Common.Logging.Core-Unity.git"
+  },
+  "license": "Apache 2.0",
   "author": {
     "name": "Kirbyrawr",
     "email": "devkirbyrawr@gmail.com"
